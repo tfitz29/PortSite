@@ -73,7 +73,8 @@ ul {
   background-color: #eeeeee;
 }
 
-#home {
+#home,
+#about {
   width: 100%;
   padding: 40px; /* Adjust padding */
   background-color: #ffffff;
@@ -89,6 +90,24 @@ ul {
   align-items: center;
 }
 
+#about h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+#about p {
+  margin-bottom: 15px;
+  line-height: 1.5;
+}
+
+#about ul {
+  margin-bottom: 20px;
+  padding-left: 20px;
+}
+
+#about ul li {
+  margin-bottom: 10px;
+}
 
 /* Media queries for responsiveness */
 @media screen and (max-width: 768px) {
