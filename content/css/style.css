@@ -1,3 +1,4 @@
+/* Reset default browser styles */
 body, h1, h2, h3, h4, h5, h6, p, ul, li {
   margin: 0;
   padding: 0;
@@ -54,11 +55,11 @@ nav ul li a:hover {
 
 section {
   width: 100%;
+  height: 200px; /* Fixed height for all sections */
   padding: 40px;
   background-color: #ffffff;
   border-radius: 5px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  margin-bottom: 20px;
   text-align: center; /* Center the text within sections */
 }
 
@@ -97,7 +98,7 @@ ul {
 #home,
 #about {
   width: 100%;
-  padding: 80px;
+  padding: 40px; /* Adjust padding */
   background-color: #ffffff;
   border-radius: 5px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
