@@ -20,7 +20,7 @@ body {
 .profile-pic {
   width: 200px;
   height: auto;
-  max-width: 45%;
+  max-width: 30%;
   margin-bottom: 20px;
   border-radius: 50%;
 }
