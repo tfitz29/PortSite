@@ -1,1 +1,1 @@
-This is a very simple all-inclusive site for all the content I want to share
+This is a simple all-inclusive site for all the content that I want to share
