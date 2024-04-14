@@ -29,11 +29,11 @@ body {
 }
 
 /* Experience and Education section styles */
-#experience, #skills {
+#experience, #skills, #projects{
   margin-top: 50px;
 }
 
-#experience h2, #skills h2 {
+#experience h2, #skills h2, #projects h2 {
   margin-top: 30px;
 }
 
