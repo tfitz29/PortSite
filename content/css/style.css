@@ -31,15 +31,18 @@ body {
 /* Experience and Education section styles */
 #experience, #skills, #projects{
   margin-top: 50px;
+  text-align: center;
 }
 
 #experience h2, #skills h2, #projects h2 {
   margin-top: 30px;
+  text-align: center;
 }
 
 /* Contact section styles */
 #contact {
   margin-top: 50px;
+  text-align: center;
 }
 
 /* Footer styles */
